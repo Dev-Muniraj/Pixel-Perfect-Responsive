@@ -17,7 +17,7 @@ class SignInScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisSize: MainAxisSize.min,
           children: [
-            const LogoScreen(image: 'assets/images/Small logo-01 (1).png',),
+            const LogoScreen(image: 'assets/images/google.png',),
 
             SizedBox(height: 4.h),
 
